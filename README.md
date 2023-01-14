@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/vedantjdv" target="blank"><img src="https://img.shields.io/twitter/follow/vedantjdv?logo=twitter&style=for-the-badge" alt="vedantjdv" /></a> </p>
 
-- 🌱 I’m currently learning **React**.
+- 🌱 I’m currently learning **Springboot**.
 
 - 💬 Ask me about **Data Structures**.
 
