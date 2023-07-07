@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/vedantjdv" target="blank"><img src="https://img.shields.io/twitter/follow/vedantjdv?logo=twitter&style=for-the-badge" alt="vedantjdv" /></a> </p>
 
-- 🌱 I’m currently learning **Springboot**.
+- 🌱 I’m currently learning **Golang**.
 
-- 💬 Ask me about **Data Structures**.
+- 💬 Ask me about **Java SpringBoot and PostgreSQL**.
 
 - 👯 Always open to help/collaborate. 
 
